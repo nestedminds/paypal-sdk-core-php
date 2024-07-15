@@ -1,5 +1,5 @@
 {
-    "name": "smashgg/paypal-sdk-core-php",
+    "name": "paypal/paypal-sdk-core-php",
     "replace": {
         "paypal/sdk-core-php": "3.4.0"
     },
